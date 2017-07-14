@@ -1,0 +1,1 @@
+# Loreeh-Rasonabe-071017-static-final-innerclass-new
